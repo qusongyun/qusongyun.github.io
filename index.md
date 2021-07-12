@@ -2,7 +2,7 @@
 ### Phd Candidate
 Institute of Computing Technology, Chinese Academy of Sciences
 Email: qusongyun18z@ict.ac.cn
-Research Interests: **Process in Memory (PIM), Memristor, Accelerator, VLSI Design, AutoML**
+Research Interests: **Process in Memory (PIM)-based NN Accelerator, Software/Hardware Co-Design,VLSI Design, AutoML**
 
 ### Short Bio
 I am currently a PhD candidate in Institute of Computing Technology (Third year at 2021), Chinese Academy of Sciences. My research interests primarily focus on the area of PIM, 
@@ -21,4 +21,5 @@ especially RRAM-based NN accelerator. I'm also interested in AutoML, with an emp
 ### Honors and Awards
 + 2020: UCAS Merit Student
 + 2020: DAC 2020 Young Fellow Member
-+ 2017: First Prize of National Undergraduate Electronic Design Contest
++ 2016: First Prize of "TI" Cup National College Student Electronic Design Contest - Analog Electronic System Design Invitation Contest
++ 2017: First Prize of "TI" Cup National College Student Electronic Design Contest
