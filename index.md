@@ -1,7 +1,5 @@
 # Songyun Qu (屈松云)
 
-Research Interests: **Process in Memory (PIM)-based NN Accelerator, Software/Hardware Co-Design,VLSI Design, AutoML**
-
 ### Short Bio
 I am currently a fourth-year(at 2022) PhD candidate in Institute of Computing Technology, Chinese Academy of Sciences. My research interests primarily focus on Process in Memory (PIM)-systems, Energy Efficient NN Accelerator, Software/Hardware Co-Design, VLSI Design and AutoML
 
