@@ -1,7 +1,7 @@
 # Songyun Qu (屈松云)
 ### Phd Candidate
-Institute of Computing Technology, Chinese Academy of Sciences
-Email: qusongyun18z@ict.ac.cn
+Institute of Computing Technology, Chinese Academy of Sciences \\
+Email: qusongyun18z@ict.ac.cn \\
 Research Interests: **Process in Memory (PIM)-based NN Accelerator, Software/Hardware Co-Design,VLSI Design, AutoML**
 
 ### Short Bio
