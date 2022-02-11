@@ -14,6 +14,8 @@ I am currently a fourth-year(at 2022) PhD candidate in Institute of Computing Te
 4. [**TC'21**] Kaiwei Zou, Ying Wang, Member, IEEE, Long Cheng, Member, IEEE, **Songyun Qu**, Huawei Li, Senior Member, IEEE, and Xiaowei Li, Senior Member, IEEE, "CAP: Communication-aware Automated Parallelization for Deep Learning Inference on CMP Architectures,” in IEEE Transactions on Computers, 2021.(**CCF-A**)
 
 ### Honors and Awards
++ 2022: ASP-DAC SRF, most popular poster award
++ 2021: 第六届ChinaDA 会议，主题报告
 + 2020: UCAS Merit Student
 + 2020: DAC 2020 Young Fellow Member
 + 2016: First Prize of "TI" Cup National College Student Electronic Design Contest - Analog Electronic System Design Invitation Contest
