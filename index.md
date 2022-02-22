@@ -9,7 +9,7 @@ I am currently a fourth-year(at 2022) PhD candidate in Institute of Computing Te
 
 ### Publications
 1. [**DAC'22**] **Yintao He, Songyun Qu(共一)**, Ying Wang, Bing Li, Huawei Li, Xiaowei Li, “InfoX: An Energy-Efficient ReRAM Accelerator Design with Information-Lossless Low-Bit ADCs”, to appear in IEEE/ACM Proceedings of Design, Automation Conference, 2022.(CCF-A)
-2. [**DAC'22**] Yuquan He, Songyun Qu, Gangliang Lin, Ying Wang, ChengLiu, LeiZhang, “Processing-in-SRAM Acceleration for Ultra-Low Power Visual 3DPerception”, to appear in IEEE/ACM Proceedings of Design, Automation Conference, 2022.(CCF-A)
+2. [**DAC'22**] Yuquan He, **Songyun Qu**, Gangliang Lin, Ying Wang, ChengLiu, LeiZhang, “Processing-in-SRAM Acceleration for Ultra-Low Power Visual 3DPerception”, to appear in IEEE/ACM Proceedings of Design, Automation Conference, 2022.(CCF-A)
 3. [**DAC'21**] **Sonyun Qu**, Bing Li, Ying Wang, Lei Zhang, “ASBP: Automatic Structured Bit-Pruning for RRAM-based NN Accelerator,” in IEEE/ACM Proceedings of Design, Automation Conference, 2021.(**CCF-A**)
 4. [**DAC'20**] **Sonyun Qu**, Ying Wang, Bing Li, Xiandong Zhao, Dawen Xu Lei Zhang, “RaQu: An Automatic High-Utilization CNN Quantization and Mapping Framework for General-purpose RRAM Accelerator,” in IEEE/ACM Proceedings of Design, Automation Conference, 2020.(**CCF-A**)
 5. [**TCAD'21**] Bing Li, **Songyun Qu**, Ying Wang, "An Automated Quantization Framework for High-utilization RRAM-based PIM,” in IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems, doi: 10.1109/TCAD.2021.3061521, 2021.(**CCF-A**)
