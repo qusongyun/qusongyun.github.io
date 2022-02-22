@@ -3,14 +3,6 @@
 ### Short Bio
 I am currently a fourth-year(at 2022) PhD candidate in Institute of Computing Technology, Chinese Academy of Sciences. My research interests primarily focus on Process in Memory (PIM)-systems, Energy Efficient NN Accelerator, Software/Hardware Co-Design, VLSI Design and AutoML.
 
-<table border="0">
-  <tr>
-    <td width="25%">
-      <img src="/qu.jpg" width="20%">      % 插入证件照代码
-    </td>
-  </tr>
-</table>
-
 **Email**: qusongyun18z@ict.ac.cn
 
 **Wechat**: qusongyun
