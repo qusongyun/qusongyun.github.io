@@ -1,7 +1,10 @@
 # Songyun Qu (屈松云)
 
 ### Short Bio
-I am currently a fourth-year(at 2022) PhD candidate in Institute of Computing Technology, Chinese Academy of Sciences. My research interests primarily focus on Process in Memory (PIM)-systems, Energy Efficient NN Accelerator, Software/Hardware Co-Design, VLSI Design and AutoML
+I am currently a fourth-year(at 2022) PhD candidate in Institute of Computing Technology, Chinese Academy of Sciences. My research interests primarily focus on Process in Memory (PIM)-systems, Energy Efficient NN Accelerator, Software/Hardware Co-Design, VLSI Design and AutoML.
+**Email**: qusongyun18z@ict.ac.cn
+**Wechat**: qusongyun
+**Tel**: +8618811542553
 
 ### Education
 + Sep. 2018 - Present: ICT, CAS.   PhD Student in Computer Systems and Architecure
